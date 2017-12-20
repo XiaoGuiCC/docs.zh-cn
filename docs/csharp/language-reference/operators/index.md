@@ -106,7 +106,7 @@ C# 提供了许多运算符，这些运算符是指定要在表达式中执行�
   
  [x + y](../../../csharp/language-reference/operators/addition-operator.md)：加法。  
   
- [x：y](../../../csharp/language-reference/operators/subtraction-operator.md)：减法。  
+ [x - y](../../../csharp/language-reference/operators/subtraction-operator.md)：减法。  
   
 ## <a name="shift-operators"></a>移位运算符  
  这些运算符的优先级比下一章节高，比上一章节低。  请注意，你可以单击运算符转到包含示例的详细页面。  
